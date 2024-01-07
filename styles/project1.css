@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* font related CSS */
+.Merriweather {
+    font-family: 'Merriweather', serif;
+}
+
+.Inter {
+    font-family: 'Inter', sans-serif;
+}
+
+/* header related CSS */
+header {}
+
+.header {
+    width: 1320px;
+    height: 600px;
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgba(0, 0, 0, 0)), url("../images/Banner\ Image.png");
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover, contain;
+    margin: 50px auto 0px;
+    border-radius: 15px;
+}
+
+.header-top-subtitle {
+    padding-top: 175px;
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.header-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: 25px;
+}
