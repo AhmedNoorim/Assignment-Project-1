@@ -77,7 +77,7 @@ main {
     gap: 30px;
     justify-items: center;
     background-image: linear-gradient(to right, rgb(0, 0, 0), rgba(0, 0, 0, 0)), url("../images/Vectorrr.png");
-    background-repeat: no-repeat;
+    background-repeat: no-repeat, no-repeat;
     border-radius: 15px;
     margin-top: 120px;
 }
@@ -149,7 +149,7 @@ main {
     width: 1320px;
     height: 660px;
     background-image: url("../images/Group\ 44.png"), url("../images/Group\ 75.png"), url("../images/Rectangle\ 2.png"), url("../images/Rectangle\ 1.png");
-    background-repeat: no-repeat;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
     background-position: 72% 25%, 10% center, bottom center, top right;
     background-size: auto 40%, auto 75%, auto auto, auto auto;
 }
