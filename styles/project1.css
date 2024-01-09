@@ -162,7 +162,7 @@ main {
     color: #F00;
     font-size: 24px;
     font-weight: 500;
-    margin-top: 50px;
+    margin-top: 100px;
     margin-bottom: 20px;
 }
 
@@ -181,11 +181,17 @@ main {
 }
 
 .four-subsubtitle {
-    margin-top: 50px;
+    margin-top: 90px;
     color: #F00;
     font-size: 48px;
     font-weight: 700;
     margin-bottom: 20px;
+}
+
+.four-center {
+    border: 15px solid #F00;
+    border-radius: 50%;
+    padding: 40px;
 }
 
 .four-left,
